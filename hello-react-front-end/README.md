@@ -35,7 +35,7 @@
 
 # 📖 Hello-React-FrontEnd<a name="about-project"></a>
 
-> Hello-React-FrontEnd is a project that aims to connect a Ruby on Rails back-end with a [React front-end](https://github.com/obibaadoma/Hellol-React-FrontEnd/tree/project-setup-and-front).
+> Hello-React-FrontEnd is a project that aims to connect a Ruby on Rails back-end with a [Rails-Api-Backend](https://github.com/obibaadoma/Hello-Rails-Api-Backend).
 
 #### Learning objectives
 
